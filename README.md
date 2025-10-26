@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://i.pinimg.com/1200x/a5/56/e8/a556e8fc7c3146e625ebdb58d0fec548.jpg)
 <h1 align="center">Hi 👋, I'm Mohamed Wassim Salem</h1>
 <h3 align="center">Web Developer | Graphic Designer | Python Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
