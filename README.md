@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently looking for a job
 
-- 🌱 I’m currently Master’s Student in Intelligent Decision-Making Strategies
+- 🌱 I’m currently Master’s Student in Intelligent Decision-Making Strategies (IDEAS)
 
 - 📫 How to reach me **salemwassim88@gmail.com**
 
