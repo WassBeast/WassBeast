@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="http://www.linkedin.com/in/mohamed-wassim-salem" target="blank"><img src="https://img.shields.io/twitter/follow/wassim salem (wassbeast)?logo=twitter&style=for-the-badge" alt="wassim salem (wassbeast)" /></a> </p>
 
-- 🔭 I’m currently working on **ElectroZone**
+- 🔭 I’m currently looking for job
 
-- 🌱 I’m currently learning **react,AndroidStudio**
+- 🌱 I’m currently Master’s Student in Intelligent Decision-Making Strategies
 
 - 📫 How to reach me **salemwassim88@gmail.com**
 
